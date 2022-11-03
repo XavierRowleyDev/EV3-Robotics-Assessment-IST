@@ -6,4 +6,5 @@ Made with @MakoSako77
 NOTES:
 
 -Green code is currently not functional 
+
 -May not work on your EV3 system first try, use Device Browser > Sensors > Colour Sensor > Monintor Values, to determine your own light and colour values for your coruse as small differences can cause the code to not function correctly. 
